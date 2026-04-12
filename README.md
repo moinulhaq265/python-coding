@@ -44,6 +44,9 @@ To run any of these scripts locally, ensure you have Python installed and follow
 If you find this repository helpful or want to discuss Python, feel free to reach out!
 
 LinkedIn: https://www.linkedin.com/in/moin-ul-haq-627761363/
+
 WhatsApp: +92 315 4565603
+
 Email: moinulhaq265gmail@.com 
+
 GitHub: @moinulhaq265
