@@ -21,6 +21,6 @@ Mutability of Lists (Updating elements and in-place changes).
 
 Common List Methods ( .append() , .pop() , .remove() ).
 
-List Operations (Concatenation, Slicing tricks like [::-1]).
+List Operations (Concatenation, Slicing tricks like [::-1] ).
 
 Maintained by Moin ul Haq
