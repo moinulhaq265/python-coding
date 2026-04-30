@@ -19,7 +19,7 @@ List Indexing and Slicing (Positive & Negative).
 
 Mutability of Lists (Updating elements and in-place changes).
 
-Common List Methods ( .append(), .pop(), .remove() ).
+Common List Methods ( .append() , .pop() , .remove() ).
 
 List Operations (Concatenation, Slicing tricks like [::-1]).
 
