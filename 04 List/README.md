@@ -1,36 +1,22 @@
-📝 Python Lists: Practice & Assignment
-This folder contains a comprehensive study of Python Lists, ranging from basic indexing and slicing to complex nested list manipulations. It serves as a record of my learning journey in Python data structures.
+Python Lists 📊
+This folder contains a comprehensive guide to working with the List data type in Python, covering everything from basic declaration to advanced data manipulation and memory management.
 
-📂 Folder Structure
+Files in this Folder:
+list_practice.py: Introduction to list declaration, indexing, and basic properties.
 
-list_practice.py: Contains initial practice questions covering basic and medium-level list operations.
+list_assignment.py: A structured assignment featuring logic-based problems to test fundamental list concepts.
 
-assignment.py: The official assignment file with problem statements.
+assignment_solutions.py: Detailed solutions to the assignment questions, including optimized approaches for real-world scenarios.
 
-solution of assignment.py: My detailed solutions to the assignment challenges.
+Key Concepts Covered:
+Indexing and Slicing: Mastering both positive and negative indexing to navigate through data.
 
-🚀 Key Concepts Covered
+List Modification: Practical use of methods like .append(), .insert(), .remove(), and .pop().
 
-Basic Operations: Indexing, negative indexing, and slicing.
+Built-in Analysis: Efficiently using max(), min(), sum(), and len() for statistical operations.
 
-Modifying Lists: Using .append(), .insert(), .extend(), and .pop().
+Advanced Logic: Handling Nested Lists (Matrices) and reversing lists using the slicing trick [::-1].
 
-Data Integrity: Understanding the difference between .remove() (value-based) and del (index-based).
+Memory Management: Understanding how Python handles list references and the difference between shallow and deep copies.
 
-Built-in Functions: Utilizing max(), min(), sum(), and len().
-
-Advanced Logic: Palindrome checking using [::-1] and working with Nested Lists (Matrices).
-
-Memory Management: Exploring how Python handles list references (Shallow vs. Deep copying).
-
-🛠️ How to Run
-
-To run any of the files, ensure you have Python installed and execute the following command in your terminal:
-
-Bash
-
-python <filename>.py
-
-👨‍💻 About Me
-
-I am a Computer Science Student and Web Developer currently documenting my progress in Python. You can find more of my work in the main repository.
+Maintained by Moin ul Haq
