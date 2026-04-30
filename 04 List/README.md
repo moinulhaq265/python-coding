@@ -1,22 +1,26 @@
 Python Lists 📊
-This folder contains a comprehensive guide to working with the List data type in Python, covering everything from basic declaration to advanced data manipulation and memory management.
+This folder contains a comprehensive guide to working with the List data type in Python, covering everything from basic declaration to advanced operations.
 
 Files in this Folder:
-list_practice.py: Introduction to list declaration, indexing, and basic properties.
+List.py: Introduction to list declaration, indexing, and basic properties.
 
-list_assignment.py: A structured assignment featuring logic-based problems to test fundamental list concepts.
+modifying_operations.py: Deep dive into adding and removing elements using methods like append, insert, and pop.
 
-assignment_solutions.py: Detailed solutions to the assignment questions, including optimized approaches for real-world scenarios.
+operation.py: Exploring advanced list operations including slicing, sorting, and reversing.
+
+Solve Questions.py: Practice problems and logic-based questions specifically designed to master list manipulation.
+
+Assignment.py: A structured assignment featuring challenges to test fundamental list concepts.
+
+solution of assignment.py: Detailed solutions to the assignment questions with optimized approaches.
 
 Key Concepts Covered:
-Indexing and Slicing: Mastering both positive and negative indexing to navigate through data.
+List Indexing and Slicing (Positive & Negative).
 
-List Modification: Practical use of methods like .append(), .insert(), .remove(), and .pop().
+Mutability of Lists (Updating elements and in-place changes).
 
-Built-in Analysis: Efficiently using max(), min(), sum(), and len() for statistical operations.
+Common List Methods ( .append(), .pop(), .remove() ).
 
-Advanced Logic: Handling Nested Lists (Matrices) and reversing lists using the slicing trick [::-1].
-
-Memory Management: Understanding how Python handles list references and the difference between shallow and deep copies.
+List Operations (Concatenation, Slicing tricks like [::-1]).
 
 Maintained by Moin ul Haq
