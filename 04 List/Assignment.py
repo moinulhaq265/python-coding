@@ -1,6 +1,7 @@
 
                                                              #------- Easy --------
 
+
 # Question 1
 
 # The Double-Up: Given a list prices = [10, 20, 30], create a new list where every price is doubled. 
@@ -15,6 +16,32 @@
 
 # Existence Check: Create a list of 3 colors. 
 # Ask the user for a color as input. If the color exists in the list, print "Found!"; otherwise, append that color to the list.
+
+# Question 4
+
+# Create & Print — Create a list of 5 of your favorite foods. 
+# Print the whole list, first item, and last item.
+
+# Question 5
+
+# Indexing — Given:
+# colors = ["red", "green", "blue", "yellow", "white"]
+# Print the second, fourth, and last color.
+
+# Question 6
+
+# Length — Create a list of 6 countries. Print how many countries are in the list using len().
+
+# Question 7
+
+# Add Items — Start with an empty list items = []. 
+# Add 4 items to it using .append() and print the final list.
+
+# Question 8
+
+# Remove Item — Given:
+# numbers = [10, 20, 30, 40, 50]
+# Remove `30` from the list and print the result.
 
 
 
@@ -36,6 +63,33 @@
 # The Clean Sweep: Create a list with several None values and numbers, e.g., data = [1, None, 3, None, 5]. 
 # Use the .remove() method to get rid of all None values (assume you know there are exactly two).
 
+# Question 4
+
+# Slicing — Given:
+# letters = ["a", "b", "c", "d", "e", "f", "g"]
+# Print:
+# First 3 items
+# Last 3 items
+# Items from index 2 to 5
+
+# Question 5
+
+# Create a list of 5 numbers. 
+# Change the third item to 99 and print the updated list.
+
+# Question 6
+
+# scores = [85, 42, 91, 67, 55, 78]
+# Print the list sorted in ascending and descending order.
+
+# Question 8
+
+# a = [1, 2, 3]
+# b = [4, 5, 6]
+# Join both lists using `+`
+# Repeat list `a` three times using `*`
+# Print both results
+
 
                                                               #------- Hard --------
 
@@ -50,3 +104,21 @@
 # The Palindrome List: Create a list of characters, e.g., letters = ['r', 'a', 'd', 'a', 'r']. 
 # Write a logic that prints True if the list reads the same forward and backward, and False otherwise. 
 # (Hint: Use slicing with a negative step).
+
+# Question 3
+
+# Sum & Average — Create a list of 5 numbers. Calculate and print their sum and average.
+
+# Question 4
+
+# find the max and min
+# temps = [32, 45, 28, 61, 39, 55]
+
+# Question 5
+
+# nums = [1, 2, 3, 2, 4, 2, 5]
+# Count how many times `2` appears using `.count()`.
+
+# Question 6
+
+# List Comprehension — Create a list of squares of numbers from 1 to 10 using list comprehension:

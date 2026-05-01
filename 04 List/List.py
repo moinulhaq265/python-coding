@@ -9,6 +9,13 @@ mylist = ["moin",265,9.8,True]
 print (mylist)
 print(type(mylist))
 
+fruits = ["apple", "banana", "mango"]
+numbers = [1, 2, 3, 4, 5]
+mixed = [1, "Ali", 3.14, True]   # can store different types
+print (fruits)
+print (numbers)
+print (mixed)
+
 # nested list --> list inside list
 
 matrix = [[1, 2], [3, 4], [5, 6]]
